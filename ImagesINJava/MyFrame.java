@@ -11,7 +11,7 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author jcuzzola
+ * @author
  */
 public class MyFrame extends javax.swing.JFrame {
 
